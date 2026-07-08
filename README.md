@@ -22,7 +22,7 @@ I enjoy turning messy raw data into clean, validated, structured datasets that s
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [Finance Databricks Lakehouse Pipeline](ADD_GITHUB_LINK_HERE) | Built an end-to-end finance data engineering pipeline using Bronze/Silver/Gold medallion architecture to create validated, analytics-ready datasets for BI, reporting, and AI/ML use cases. | Python, SQL, PySpark, Spark SQL, Databricks, Delta Lake, Auto Loader, Unity Catalog |
+| [Finance Databricks Lakehouse Pipeline](https://github.com/deardisha/finance-databricks-lakehouse-pipeline) | Built an end-to-end finance data engineering pipeline using Bronze/Silver/Gold medallion architecture to create validated, analytics-ready datasets for BI, reporting, and AI/ML use cases. | Python, SQL, PySpark, Spark SQL, Databricks, Delta Lake, Auto Loader, Unity Catalog |
 | [U.S. EPA Emissions Analytics Dashboard](https://github.com/deardisha/epa-emissions-databricks-dashboard) | Built Databricks SQL workflows to clean, transform, and analyze EPA emissions data, including state/county-level metrics and emissions-per-person calculations. | Databricks SQL, SQL, Data Cleaning, Data Visualization |
 | DuckDB Zonemap Optimization | Extended DuckDB query execution by integrating column imprint bitmaps with zonemap pruning to improve predicate filtering efficiency. | C++, DuckDB, SQL, Query Optimization |
 | [Cropable - AI Crop Disease Detection](https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/21/e3sconf_icecs2024_01001.pdf) | Published research project on an AI-powered crop disease detection system using CNN/VGG16-based image classification to identify tomato leaf diseases and recommend treatment measures. | Python, CNN, VGG16, Image Processing, Machine Learning |
@@ -49,7 +49,7 @@ I enjoy turning messy raw data into clean, validated, structured datasets that s
 M.S. in Computer Science  
 
 🎓 **Vellore Institute of Technology**  
-B.Tech in Computational Science  
+B.Tech in Computer Science and Engineering
 
 ---
 
