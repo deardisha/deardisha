@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Disha Goyal
 
-### Data Engineer / Data Analyst | SQL • Python • PySpark • Databricks • ETL/ELT
+### Data Engineer | Databricks Certified Data Engineer Associate | SQL • Python • PySpark • Databricks • ETL/ELT
 
 Recent MS Computer Science graduate from the University of Southern California, focused on building reliable data pipelines, analytics-ready datasets, and dashboard/reporting workflows.
 
@@ -14,7 +14,7 @@ I enjoy turning messy raw data into clean, validated, structured datasets that s
 |---|---|---|
 | Data Engineering | End-to-end lakehouse pipelines, ETL/ELT workflows, data validation, medallion architecture | Databricks, PySpark, Spark SQL, Delta Lake |
 | Analytics & BI | Dashboard-ready datasets, KPI reporting, data storytelling, business reporting | SQL, Power BI, Tableau, Excel |
-| Certification | Preparing for Databricks Certified Data Engineer Associate | Databricks Academy, Lakeflow, Unity Catalog |
+| Continuous Learning | Expanding my Databricks, Lakeflow, Unity Catalog, and cloud data engineering skills | Databricks Academy, Lakeflow, Unity Catalog |
 
 ---
 
@@ -55,7 +55,7 @@ B.Tech in Computer Science and Engineering
 
 ## 🏅 Certifications & Learning
 
-- Databricks Certified Data Engineer Associate — In Progress  
+- **Databricks Certified Data Engineer Associate — Issued July 18, 2026**
 - Knowledge Badge - Data Ingestion with Lakeflow Connect  
 - Knowledge Badge - Deploy Workloads with Lakeflow Jobs  
 - Knowledge Badge - Build Data Pipelines with Lakeflow Spark Declarative Pipelines  
